@@ -1,3 +1,4 @@
+
 # Tictactoe-game
 
 This document outlines the steps to create a simple Tic-Tac-Toe game using React. The implementation is beginner-friendly and demonstrates core React concepts like components, state management, and event handling.
