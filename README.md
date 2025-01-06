@@ -44,7 +44,7 @@ Conclusion
 
 You now have a fully functional Tic-Tac-Toe game built with React. You can further enhance the project by adding:
 
-Highlighting the winning line
+.Highlighting the winning line
 
 Adding an AI opponent
 
@@ -52,7 +52,6 @@ Keeping track of scores.
 
 Interesting Fact:
 Tic Tac Toe is so straightforward that if both players use perfect strategy, the game will always end in a draw!
-
 
 ## Preview
 
