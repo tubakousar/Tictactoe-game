@@ -21,7 +21,7 @@ Node.js and npm/yarn installed
 
 Steps to Build
 
-1. Initialize the React App
+1. Initialize the React App :
 
 Run the following commands to set up a new React project:
 
