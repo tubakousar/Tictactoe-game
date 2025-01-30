@@ -29,7 +29,7 @@ npx create-react-app tictactoe
 cd tictactoe
 npm start
 
-2. Create Components
+2. Create Components:
 
 You will need two main components:
 
